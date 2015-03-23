@@ -1,0 +1,24 @@
+Ideas-
+
+-Different document options (Task, Note, Document)
+--Task would just be a task.
+--Note is a light document, perhaps there is a page that holds multiple notes.
+--Document is a full document.
+
+*
+
+Color codes-
+Dark primary: #1976D2
+Primary: #2196F3
+Light primary: #BBDEFB
+Text / icons: #FFFFFF
+Accent color: #FF4081
+Primary text: #212121
+Secondary text: #727272
+Divider color: #B6B6B6
+
+*
+
+To do-
+
+*
